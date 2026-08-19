@@ -3,7 +3,7 @@ title: Map Testing
 order: 60
 ---
 
-{% include essay/feature/scrolly-map.html tile-path="/assets/tiles/gmapdir" image-width="8708" image-height="11608" max-zoom="6" min-zoom="0" %}
+{% include essay/feature/scrolly-map.html tile-path="/assets/tiles/gmapdir" image-width="8708" image-height="11608" max-zoom="6" min-zoom="3" %}
 
 Initial explanation.
 
