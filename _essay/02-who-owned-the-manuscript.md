@@ -1,6 +1,6 @@
 ---
 title: Who Owned the Manuscript?
-order: 70
+order: 10
 ---
 
 <img src="../assets/img/who-owned-light.jpg" alt="flowchart" style="width:120%;" />

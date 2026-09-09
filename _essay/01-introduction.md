@@ -1,6 +1,6 @@
 ---
-title: Map Testing
-order: 60
+title: Introduction
+order: 00
 ---
 
 The seven extant drafts of *Walden* serve as a record of Thoreau’s revision process. Digital Thoreau's [fluid-text edition of *Walden*](https://digitalthoreau.org/fluid-text-toc) enables readers to compare transcripts of these drafts in order to understand Thoreau's changes to the work's language and organization. 

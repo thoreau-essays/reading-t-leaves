@@ -1,6 +1,6 @@
 ---
-title: Manuscript Examples
-order: 80
+title: A Leaf from Version A
+order: 30
 ---
 
 On this page from the A draft of *Walden*, we see Thoreau making changes in ink and pencil in material belonging to "Economy," paragraph 11.
