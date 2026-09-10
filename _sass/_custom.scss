@@ -2,3 +2,26 @@
     Put your custom SCSS here!
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
+
+p.caption {
+	padding-top: 10px;
+	font-style: italic;
+	font-size: .75em;
+}
+
+/* blockquote */
+
+blockquote.ehw {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-right: 40px;
+  padding-left: 1.25em;
+  line-height: 75%;
+  border-left: 3px solid #696969;
+  color: #696969;
+}
+
+blockquote.ehw > p {
+    line-height: 1.15em;
+}
