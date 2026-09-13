@@ -1,9 +1,15 @@
 ---
-title: A Leaf from Version A
+title: <q>One farmer says to me &hellip;</q>
 order: 30
 ---
 
+The page below is from the A draft of *Walden*.
+
 On this page from the A draft of *Walden*, we see Thoreau making changes in ink and pencil in material belonging to "Economy," paragraph 11.
+
+The revisions near the top of the page are all retained in the published *Walden*, where we read, in paragraph 11 of "Economy," 
+
+<blockquote class="ehw"><p>One farmer says to me, "You cannot live on vegetable food solely, for it furnishes nothing to make bones with,' and so he religiously devotes a part of his day to supplying his system with the raw material of bones; walking all the while he talks behind his oxen, which, with vegetable-made bones, jerk him and his lumbering plough along in spite of every obstacle.</p></blockquote>
 
 Keep scrolling to see these changes in detail.
 
@@ -32,8 +38,6 @@ Still farther down, we find the penciled word "omit," probably added by Thoreau 
 The penciled line extends from the bottom of the page, in the left margin, all the way across the width of the page. Thoreau frequently encloses text in this way. The text below the line, beginning "Nature and human life," isn't omitted from the published *Walden* but is indeed omitted from this location; Thoreau relocates it within "Economy" to what will become paragraph segment 13a.
 
 {% include essay/feature/scrolly-end.html %}
-
-The revisions near the top of the page are all retained in the published *Walden*, where we read, in paragraph 11 of "Economy": One farmer says to me, "You cannot live on vegetable food solely, for it furnishes nothing to make bones with,' and so he religiously devotes a part of his day to supplying his system with the raw material of bones; walking all the while he talks behind his oxen, which, with vegetable-made bones, jerk him and his lumbering plough along in spite of every obstacle."
 
 <!--
 
