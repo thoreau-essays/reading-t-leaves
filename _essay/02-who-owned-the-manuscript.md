@@ -11,7 +11,7 @@ On Sophia’s death in 1876 all but Thoreau’s surveys and surveying field note
 
 In his later years, Blake was taken care of by Worcester school teacher and educational reformer Elias Harlow Russell. Russell inherited the manuscripts from Blake. He then sold several hundred loose manuscript leaves, and the publishing rights to Thoreau’s Journal, to the publisher Houghton Mifflin before selling all but the Journal manuscripts to NY dealer George Sidney Hellman in 1904. 
 
-Hellman re-arranged the manuscripts from whatever was left of their original order, sold perhaps 400 miscellaneous leaves to NY collector William Augustus White, then sold everything else, including the Walden manuscript, to St. Louis book dealer William Keeney Bixby in 1905. Bixby in turn sold the Walden manuscript to Henry E. and Arabella Huntington in 1918, a year before the founding of the Huntington Library in 1919.
+Hellman re-arranged the manuscripts from whatever was left of their original order, sold perhaps 400 miscellaneous leaves to NY collector William Augustus White, then sold everything else, including the Walden manuscript, to St. Louis collector William Keeney Bixby in 1905. Bixby in turn sold the Walden manuscript to Henry E. and Arabella Huntington in 1918, a year before the founding of the Huntington Library in 1919.
 
 At what subsequently became the Huntington Library, Art Museum, and Botanical Gardens, the manuscript of *Walden* is identified as HM 924. 
 
