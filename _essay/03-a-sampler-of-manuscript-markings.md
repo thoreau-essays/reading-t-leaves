@@ -50,7 +50,7 @@ The penciled line extends from the bottom of the page, in the left margin, all t
 
 {% include essay/new-section.html %}
 
-## The indispensable and ancient art of bread-making
+## "They were a real cereal fruit &hellip;"
 
 On this page from Version A, we see page numbers inscribed by both Sanborn and Thoreau, a variety of Thoreau's other extra-textual markings, and evidence of two ways that Thoreau held leaves together as he re-arranged them within and across draft versions. In A, these re-arrangements may have been related to his use of the manuscript for lecturing. The text on this page appears in paragraph 85a of the published *Walden*.
 
@@ -62,21 +62,21 @@ On the top portion of the page, Thoreau has drawn three vertical lines. Typicall
 
 Beginning six line from the top of the page, Thoreau has used curved lines in ink, together with the numbers "2" and "1" in the left margin, to transpose two sentences and combine them into one with a conjunction.
 
-{% include essay/feature/scrolly-step.html map-x="4000" map-y="2765" map-zoom="3" %}
+{% include essay/feature/scrolly-step.html %}
 
-His first inditing reads, "They had to my senses a fragrance like manna. It is a real cereal fruit which I ripened."
+His first inditing reads, "They had to my senses a fragrance like manna. It was a real cereal fruit which I ripened."
 
-{% include essay/feature/scrolly-step.html map-x="4000" map-y="2765" map-zoom="3" %}
+{% include essay/feature/scrolly-step.html %}
 
 With his revisions, the two sentences become one: "They were a real cereal fruit which I ripened &amp; they had to my senses a fragrance like other \[?\] fruits which I kept in as long as possible by wrapping them in cloths."
 
-{% include essay/feature/scrolly-step.html map-x="4000" map-y="2765" map-zoom="3" %}
+{% include essay/feature/scrolly-step.html map-x="4000" map-y="2765" %}
 
 As published, the passage reads, "They were a real cereal fruit which I ripened, and they had to my senses a fragrance like that of other noble fruits, which I kept in as long as possible by wrapping them in cloths."
 
-{% include essay/feature/scrolly-step.html map-x="0" map-y="4500" map-zoom="4" map-transition="pan"%}
+{% include essay/feature/scrolly-step.html map-x="0" map-y="7000" map-transition="pan"%}
 
-In the left margin, holes and slashes in the paper provide evidence that Thoreau held this page together with other leaves using pins at one time and string at another.
+In the left margin, holes and knife-cuts in the paper provide evidence that Thoreau held this leaf together with other leaves using pins at one time and string at another.
 
 {% include essay/feature/scrolly-step.html map-x="1250" map-y="902" map-zoom="4" %}
 
@@ -84,7 +84,7 @@ Near the top left of the page, Sanborn has written, in blue pencil, "P. 99."
 
 {% include essay/feature/scrolly-step.html map-x="6583" map-y="902" map-zoom="4" %}
 
-In the upper right corner, Thoreau has written "49" in pencil. "49" has been crossed out and replaced by "99." Thoreau numbered many of the recto leaves in A. The previous recto is numbered "47" and the succeeding one "51." A few lines down we get a closer view of the ampersand Thoreau used to join the two sentences discussed above.
+In the upper right corner, Thoreau has written "49" in pencil. "49" has been crossed out and replaced by "99," almost certainly by Sanborn. Thoreau numbered many of the recto leaves in A. The previous recto is numbered "47" and the succeeding one "51." A few lines down we get a closer view of the ampersand Thoreau used to join the two sentences discussed above.
 
 {% include essay/feature/scrolly-end.html %}
 
