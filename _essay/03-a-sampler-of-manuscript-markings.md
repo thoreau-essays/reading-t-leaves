@@ -32,7 +32,9 @@ What began as "One says you can't live &hellip;" becomes "One farmer says to me 
 
 {% include essay/feature/scrolly-step.html map-x="3000" map-y="3000" map-zoom="3" map-transition="pan" %}
 
-There is a penciled "P.17" in the upper left corner of the page, but this is in Sanborn's hand, not Thoreau's. Six lines from the top of the page, Thoreau inserts "he talks" in ink following "all the while," and he uses a curved line &mdash; a standard transposition symbol &mdash; to indicate that the order of words here should be "walking all the while he talks." As he often does throughout the manuscript, Thoreau draws the line in pencil, then draws over it in ink.
+There is a penciled "P.17" in the upper left corner of the page, but this is in Sanborn's hand, not Thoreau's. 
+
+Six lines from the top of the page, Thoreau inserts "he talks" in ink following "all the while," and he uses a curved line &mdash; a standard transposition symbol &mdash; to indicate that the order of words here should be "walking all the while he talks." As he often does throughout the manuscript, Thoreau draws the line in pencil, then draws over it in ink.
 
 {% include essay/feature/scrolly-step.html map-x="6000" map-y="3000" map-zoom="4" %}
 
@@ -60,11 +62,11 @@ On the top portion of the page, Thoreau has drawn three vertical lines. Typicall
 
 {% include essay/feature/scrolly-step.html map-x="4100" map-y="2765" map-zoom="3" %}
 
-Beginning six line from the top of the page, Thoreau has used curved lines in ink, together with the numbers "2" and "1" in the left margin, to transpose two sentences and combine them into one with a conjunction.
+Beginning six lines from the top of the page, Thoreau has used curved lines in ink, together with the numbers "2" and "1" in the left margin, to transpose two sentences and combine them into one with a conjunction.
 
 {% include essay/feature/scrolly-step.html %}
 
-His first inditing reads, "They had to my senses a fragrance like manna. It was a real cereal fruit which I ripened."
+His first inditing reads, "They had to my senses a fragrance like manna – It was a real cereal fruit which I ripened – which I kept in as long as possible by wrapping them in cloths."
 
 {% include essay/feature/scrolly-step.html %}
 
