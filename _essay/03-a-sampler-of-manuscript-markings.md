@@ -58,7 +58,7 @@ On this page from Version A, we see page numbers inscribed by both Sanborn and T
 
 On the top portion of the page, Thoreau has drawn three vertical lines. Typically, he draws lines like this to indicate that he's made use of the underlying words elsewhere — either in a subsequent draft or elsewhere in the same draft. They might be called "use marks." They're different from the lines Thoreau typically draws to cancel text entirely from a draft, though it must be borne in mind that his practice isn't entirely consistent.
 
-{% include essay/feature/scrolly-step.html map-x="4000" map-y="2765" map-zoom="3" %}
+{% include essay/feature/scrolly-step.html map-x="4100" map-y="2765" map-zoom="3" %}
 
 Beginning six line from the top of the page, Thoreau has used curved lines in ink, together with the numbers "2" and "1" in the left margin, to transpose two sentences and combine them into one with a conjunction.
 
@@ -70,11 +70,11 @@ His first inditing reads, "They had to my senses a fragrance like manna. It was 
 
 With his revisions, the two sentences become one: "They were a real cereal fruit which I ripened &amp; they had to my senses a fragrance like other \[?\] fruits which I kept in as long as possible by wrapping them in cloths."
 
-{% include essay/feature/scrolly-step.html map-x="4000" map-y="2765" %}
+{% include essay/feature/scrolly-step.html %}
 
 As published, the passage reads, "They were a real cereal fruit which I ripened, and they had to my senses a fragrance like that of other noble fruits, which I kept in as long as possible by wrapping them in cloths."
 
-{% include essay/feature/scrolly-step.html map-x="0" map-y="7000" map-transition="pan"%}
+{% include essay/feature/scrolly-step.html map-y="7000" %}
 
 In the left margin, holes and knife-cuts in the paper provide evidence that Thoreau held this leaf together with other leaves using pins at one time and string at another.
 
@@ -87,20 +87,3 @@ Near the top left of the page, Sanborn has written, in blue pencil, "P. 99."
 In the upper right corner, Thoreau has written "49" in pencil. "49" has been crossed out and replaced by "99," almost certainly by Sanborn. Thoreau numbered many of the recto leaves in A. The previous recto is numbered "47" and the succeeding one "51." A few lines down we get a closer view of the ampersand Thoreau used to join the two sentences discussed above.
 
 {% include essay/feature/scrolly-end.html %}
-
-<!--
-
-All these revisions are retained in the published *Walden*, where we read, "One farmer says to me, "You cannot live on vegetable food solely, for it furnishes nothing to make bones with,' and so he religiously devotes a part of his day to supplying
-
-include essay/feature/scrolly-map.html tile-path="/assets/tiles/gmapdir" image-width="8708" image-height="11608" layout="sidecar" interactive="true" max-zoom="6" min-zoom="2"
-
-*P. 7*, added in pencil in the upper left, is not in Thoreau's hand but Sanborn's.
-
-include essay/feature/scrolly-step.html map-x="6590" map-y="6028" map-zoom="4"
-
-Scroll to the featured location.
-
-include essay/feature/scrolly-end.html
-
--->
-
