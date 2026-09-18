@@ -58,34 +58,40 @@ On this page from Version A, we see page numbers inscribed by both Sanborn and T
 
 {% include essay/feature/scrolly-map.html tile-path="/assets/tiles/68dir" image-width="8708" image-height="11608" max-zoom="6" min-zoom="2" %}
 
-On the top portion of the page, Thoreau has drawn three vertical lines. Typically, he draws lines like this to indicate that he's made use of the underlying words elsewhere — either in a subsequent draft or elsewhere in the same draft. They might be called "use marks." They're different from the lines Thoreau typically draws to cancel text entirely from a draft, though it must be borne in mind that his practice isn't entirely consistent.
+On the top portion of the page, Thoreau has drawn three vertical lines. They may be intended to cancel the underlying text, but it's also possible that they're intended to remind Thoreau that he's carried the underlying text into another location in the draft, or into a subsequent draft. The text here does make it, with revisions, into the published *Walden*.
+
+{% include essay/feature/scrolly-step.html %}
+
+In the left margin, holes and knife-cuts in the paper provide evidence that Thoreau held this leaf together with other leaves using pins at one time and string at another.
 
 {% include essay/feature/scrolly-step.html map-x="4100" map-y="2765" map-zoom="3" %}
 
-Beginning six lines from the top of the page, Thoreau has used curved lines in ink, together with the numbers "2" and "1" in the left margin, to transpose two sentences and combine them into one with a conjunction.
+Beginning six lines from the top of the page, Thoreau has used curved lines in ink, together with the numbers "2" and "1" in the left margin, to transpose two bits of text.
 
 {% include essay/feature/scrolly-step.html %}
 
-His first inditing reads, "They had to my senses a fragrance like manna – It was a real cereal fruit which I ripened – which I kept in as long as possible by wrapping them in cloths."
+Thoreau's original inditing reads, "They had to my senses a fragrance like manna – a real cereal fruit which I ripened – which I kept in as long as possible by wrapping them in cloths." He then cancels "manna," adding above it "the fruits." He adds "It was" in front of "a real cereal," then cancels "It was," adding "They were" in pencil above a caret. And he adds a penciled ampersand in front of "They had to my senses." 
 
 {% include essay/feature/scrolly-step.html %}
 
-With his revisions, the two sentences become one: "They were a real cereal fruit which I ripened &amp; they had to my senses a fragrance like other \[?\] fruits which I kept in as long as possible by wrapping them in cloths."
+With these revisions and the transposition, the result is, "They were a real cereal fruit which I ripened &amp; they had to my senses a fragrance like the fruits which I kept in as long as possible by wrapping them in cloths." This is very close to the wording of the sentence in the published *Walden*.
 
 {% include essay/feature/scrolly-step.html %}
 
-As published, the passage reads, "They were a real cereal fruit which I ripened, and they had to my senses a fragrance like that of other noble fruits, which I kept in as long as possible by wrapping them in cloths."
+The wavy penciled line following the end of the sentence is likely intended to draw together the end of this paragraph and the beginning of the next, collapsing them into a single paragraph.
 
-{% include essay/feature/scrolly-step.html map-y="7000" %}
+Thoreau continues the penciled line on the next line of text, effectively canceling the paragraph indentation in front of "I made." 
 
-In the left margin, holes and knife-cuts in the paper provide evidence that Thoreau held this leaf together with other leaves using pins at one time and string at another.
+{% include essay/feature/scrolly-step.html map-x="3500" map-y="9000" %}
+
+Near the bottom of the page, Thoreau again collapses two paragraphs into one with a penciled line.
 
 {% include essay/feature/scrolly-step.html map-x="1250" map-y="902" map-zoom="4" %}
 
 Near the top left of the page, Sanborn has written, in blue pencil, "P. 99."
 
-{% include essay/feature/scrolly-step.html map-x="6583" map-y="902" map-zoom="4" %}
+{% include essay/feature/scrolly-step.html map-x="6583" map-y="902" %}
 
-In the upper right corner, Thoreau has written "49" in pencil. "49" has been crossed out and replaced by "99," almost certainly by Sanborn. Thoreau numbered many of the recto leaves in A. The previous recto is numbered "47" and the succeeding one "51." A few lines down we get a closer view of the ampersand Thoreau used to join the two sentences discussed above.
+In the upper right corner, Thoreau has written "49" in pencil, then replaced it with "99." Thoreau numbered many of the recto leaves in A. The previous recto is numbered "47" and the succeeding one "51." His re-numbering here may be related to his use of the manuscript as a lecture text.
 
 {% include essay/feature/scrolly-end.html %}
