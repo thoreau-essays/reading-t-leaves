@@ -41,8 +41,6 @@ The penciled line extends from the bottom of the page, in the left margin, all t
 
 {% include essay/feature/scrolly-end.html %}
 
-{% include essay/new-section.html %}
-
 ## "They were a real cereal fruit &hellip;"
 
 On this page from Version A, we see page numbers inscribed by both Sanborn and Thoreau, a variety of Thoreau's other extra-textual markings, and evidence of two ways that Thoreau held leaves together as he re-arranged them within and across draft versions. In A, these re-arrangements may have been related to his use of the manuscript for lecturing. The text on this page appears in paragraph 85a of the published *Walden*.
@@ -89,8 +87,6 @@ In the upper right corner, Thoreau has written "49" in pencil, then replaced it 
 
 {% include essay/feature/scrolly-end.html %}
 
-{% include essay/new-section.html %}
-
 ## "The real attractions of the Hollowell Farm &hellip;"
 
 The top portion of this leaf from Thoreau's D draft of *Walden* contains the end of what would become paragraph 3 of the chapter "Where I Lived, and What I Lived For." As published, the sentence that begins at the end of the second line reads,
@@ -136,13 +132,6 @@ Thoreau has underscored the word "real" on the G leaf.
 Thoreau's two cross-references on leaves from drafts D and E to a scrap in G vividly illustrates Shanley's observation about G that it consists of short passages that "Thoreau fitted into the earlier groups"&mdash;mostly into F, but also into B, C, D, and E (32). Thoreau likely composed the leaves of G during February and March, 1854. Basing the Hollowell farm passage on an entry in his Journal dated February 3, 1854, he fitted it just where his cross-references indicate on the D and E leaves: between the paragraph about the poet who puts a farm "in rhyme" and the one beginning, "All that I could say, then, with respect to farming &hellip;" 
 
 Another way to understand this relationship between drafts is to describe G not as the February–March, 1854 leaves merely but as the combination of those leaves and various predecessor leaves, held together in whatever order, and in whatever manner, made sense to Thoreau&mdash;an order and manner now beyond reconstruction.
-
-
-
-
-
-
-
 
 <!-- 
 <img src="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/684/364,1100,2400,800/full/0/default.jpg" alt="ms leaf" style="max-width: 800px;">
