@@ -5,23 +5,23 @@ order: 30
 
 <!-- Add a note somewhere about the way the transposition to 'ancient & indispensable' is represented in the fluid text, and how this differs from what we see on the MS surface. This illustrates the importance of consulting the MS itself and not just the FT if you want to understand T's process. -->
 
-Here are a few of the types of markings we find on the *Walden* manuscript.
+Below, we've highlighted a few examples of markings found throughout the *Walden* manuscript. You can zoom and navigate in the manuscript images. (Navigate, as you would in Google Maps, by pressing and dragging). You can also make any of the images full-screen. (Caveat: These features work on desktop and tablet but not mobile.)
 
 ## "One farmer says to me &hellip;"
 
-On the partial leaf below from Version A, we see Thoreau at work on language that in the published *Walden* would form part of "Economy," paragraph 11. As published, it reads as follows:
+On the partial leaf below from Version A, at top, we see Thoreau at work on language that in the published *Walden* would form part of "Economy," paragraph 11. As published, it reads as follows:
 
-<blockquote class="ehw"><p>One farmer says to me, "You cannot live on vegetable food solely, for it furnishes nothing to make bones with," and so he religiously devotes a part of his day to supplying his system with the raw material of bones; walking all the while he talks behind his oxen, which, with vegetable-made bones, jerk him and his lumbering plough along in spite of every obstacle.</p></blockquote>
+<blockquote class="ehw"><p>One farmer says to me, <quote>You cannot live on vegetable food solely, for it furnishes nothing to make bones with,</quote> and so he religiously devotes a part of his day to supplying his system with the raw material of bones; walking all the while he talks behind his oxen, which, with vegetable-made bones, jerk him and his lumbering plough along in spite of every obstacle.</p></blockquote>
 
 {% include essay/feature/scrolly-map.html tile-path="/assets/tiles/17dir" image-width="8708" image-height="11608" max-zoom="6" min-zoom="2" layout="sidecar" interactive="true" %}
 
 Near the top left of the leaf, Thoreau has edited the first part of the sentence in ink.
 
-{% include essay/feature/scrolly-step.html map-x="3000" map-y="3000" map-zoom="3.5" %}
+{% include essay/feature/scrolly-step.html map-x="3200" map-y="3000" map-zoom="3.5" %}
 
 What began as "One says you can't live &hellip;" becomes "One farmer says to me you can't live &hellip;" after Thoreau cancels "says," places a caret after "One," and writes "farmer says to me" above the line.
 
-{% include essay/feature/scrolly-step.html map-x="3000" map-y="3000" map-zoom="4" map-transition="pan" %}
+{% include essay/feature/scrolly-step.html %}
 
 There is a penciled "P.17" in the upper left corner of the page, but this is in Sanborn's hand, not Thoreau's. 
 
@@ -61,11 +61,13 @@ Beginning six lines from the top of the page, Thoreau has used curved lines in i
 
 Thoreau's original inditing reads, "They had to my senses a fragrance like manna – a real cereal fruit which I ripened – which I kept in as long as possible by wrapping them in cloths." He then cancels "manna," adding above it "the fruits." He adds "It was" in front of "a real cereal," then cancels "It was," adding "They were" in pencil above a caret. And he adds a penciled ampersand in front of "They had to my senses." 
 
+You can press and drag in the image to see more of what's to the right.
+
 {% include essay/feature/scrolly-step.html %}
 
 With these revisions and the transposition, the result is, "They were a real cereal fruit which I ripened &amp; they had to my senses a fragrance like the fruits which I kept in as long as possible by wrapping them in cloths." This is very close to the wording of the sentence in the published *Walden*.
 
-{% include essay/feature/scrolly-step.html map-x="4500" map-y="4000" map-zoom="4" %}
+{% include essay/feature/scrolly-step.html map-x="4800" map-y="4000" map-zoom="4" %}
 
 The wavy penciled line following the end of the sentence is likely intended to draw together the end of this paragraph and the beginning of the next, collapsing them into a single paragraph.
 
@@ -77,11 +79,11 @@ Thoreau continues the penciled line on the next line of text, effectively cancel
 
 Near the bottom of the page, Thoreau again collapses two paragraphs into one with a penciled line.
 
-{% include essay/feature/scrolly-step.html map-x="1250" map-y="902" map-zoom="4" %}
+{% include essay/feature/scrolly-step.html map-x="1350" map-y="902" map-zoom="4" %}
 
 Near the top left of the page, Sanborn has written, in blue pencil, "P. 99."
 
-{% include essay/feature/scrolly-step.html map-x="6583" map-y="902" %}
+{% include essay/feature/scrolly-step.html map-x="7000" map-y="902" %}
 
 In the upper right corner, Thoreau has written "49" in pencil, then replaced it with "99." Thoreau numbered many of the recto leaves in A. The previous recto is numbered "47" and the succeeding one "51." His re-numbering here may be related to his use of the manuscript as a lecture text.
 
@@ -95,11 +97,11 @@ The top portion of this leaf from Thoreau's D draft of *Walden* contains the end
 
 {% include essay/feature/scrolly-map.html tile-path="/assets/tiles/573dir" image-width="8626" image-height="11231" max-zoom="6" min-zoom="2" layout="sidecar" interactive="true" %}
 
-A single, vertical penciled line through most of the page is likely one of Thoreau's use marks. The penciled "P 131" and "P. 132" in the left margin are in Sanborn's hand.
+A single, vertical penciled line through most of the page is likely one of Thoreau's use marks, indicating that he's incorporated the text beneath elsewhere. The penciled "P 131" and "P. 132" in the left margin are in Sanborn's hand.
 
 {% include essay/feature/scrolly-step.html map-x="3600" map-y="1600" map-zoom="3.5" %}
 
-"The most admirable kind of invisible fence" has been inserted, first in pencil, then in ink, following a caret, and "impounded it" and "milked it" have been added as well.
+"The most admirable kind of invisible fence" has been inserted, first in pencil, then in ink, above a caret, and "impounded it" and "milked it" have been added as well.
 
 The next paragraph, after some revision, begins, "All that I could say then with respect to farming &hellip;"
 
@@ -123,20 +125,14 @@ Here again Thoreau has penciled "VS The real" between the two paragraphs.
 
 This leaf in G is likely the one to which Thoreau's cross-references in D and E are pointing.
 
-{% include essay/feature/scrolly-step.html map-x="3800" map-y="1200" map-zoom="3.5" %}
+{% include essay/feature/scrolly-step.html map-x="4200" map-y="1200" map-zoom="3.5" %}
 
 Thoreau has underscored the word "real" on the G leaf.
 
+{% include essay/feature/scrolly-step.html %}
+
+Thoreau's two cross-references on leaves from drafts D and E to a scrap in G vividly illustrate a point Shanley makes about G: it consists of short passages that "Thoreau fitted into the earlier groups"&mdash;mostly into F, but also into B, C, D, and E (32). Thoreau likely composed the leaves of G during February and March, 1854. Basing the Hollowell farm passage on an entry in his Journal dated February 3, 1854, he fitted it just where his cross-references indicate on the D and E leaves: between the paragraph about the poet who puts a farm "in rhyme" and the one beginning, "All that I could say, then, with respect to farming &hellip;" 
+
+Another way to understand this relationship between drafts is to describe G as not merely the February–March, 1854 leaves, but rather the combination of those leaves and various predecessor leaves, held together in whatever order, and in whatever manner, made sense to Thoreau at the time&mdash;an order and manner now beyond reconstruction.
+
 {% include essay/feature/scrolly-end.html %}
-
-Thoreau's two cross-references on leaves from drafts D and E to a scrap in G vividly illustrates Shanley's observation about G that it consists of short passages that "Thoreau fitted into the earlier groups"&mdash;mostly into F, but also into B, C, D, and E (32). Thoreau likely composed the leaves of G during February and March, 1854. Basing the Hollowell farm passage on an entry in his Journal dated February 3, 1854, he fitted it just where his cross-references indicate on the D and E leaves: between the paragraph about the poet who puts a farm "in rhyme" and the one beginning, "All that I could say, then, with respect to farming &hellip;" 
-
-Another way to understand this relationship between drafts is to describe G not as the February–March, 1854 leaves merely but as the combination of those leaves and various predecessor leaves, held together in whatever order, and in whatever manner, made sense to Thoreau&mdash;an order and manner now beyond reconstruction.
-
-<!-- 
-<img src="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/684/364,1100,2400,800/full/0/default.jpg" alt="ms leaf" style="max-width: 800px;">
-
-This scrap from draft G is likely the one that Thoreau is cross-referencing on both the E and F leaves. Note that he's underlined the word "real."
-
-<img src="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/931/225,300,2450,600/full/0/default.jpg" alt="ms leaf" style="max-width: 800px;"> 
--->
