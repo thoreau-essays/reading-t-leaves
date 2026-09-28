@@ -13,7 +13,6 @@ On the partial leaf below from Version A, we see Thoreau at work on language tha
 
 <blockquote class="ehw"><p>One farmer says to me, "You cannot live on vegetable food solely, for it furnishes nothing to make bones with," and so he religiously devotes a part of his day to supplying his system with the raw material of bones; walking all the while he talks behind his oxen, which, with vegetable-made bones, jerk him and his lumbering plough along in spite of every obstacle.</p></blockquote>
 
-
 {% include essay/feature/scrolly-map.html tile-path="/assets/tiles/17dir" image-width="8708" image-height="11608" max-zoom="6" min-zoom="2" %}
 
 Near the top left of the leaf, Thoreau has edited the first part of the sentence in ink.
@@ -119,8 +118,6 @@ On this leaf from draft E, Thoreau has re-copied the passage and once again penc
 This scrap from draft G is likely the one that Thoreau is cross-referencing on both the E and F leaves. Note that he's underlined the word "real."
 
 <img src="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/931/225,300,2450,600/full/0/default.jpg" alt="ms leaf" style="max-width: 800px;">
-
-In the published *Walden*, Thoreau's paragraph about the "real attractions of the Hollowell farm" directly follows the paragraph about the poet who puts a farm "in rhyme" and directly precedes the paragraph beginning, "All that I could say, then, with respect to farming on a large scale &hellip;"
 
 Thoreau's two cross-references ("V S The real") on leaves from drafts D and E to a scrap in G vividly illustrates Shanley's observation about G that it consists of short passages that "Thoreau fitted into the earlier groups"&mdash;mostly into F, but also into B, C, D, and E (32). Thoreau likely composed the leaves of G during February and March, 1854. Basing the Hollowell farm passage on an entry in his Journal dated February 3, 1854, he fitted it just where his cross-references indicate on the D and E leaves: between the paragraph about the poet who puts a farm "in rhyme" and the one beginning, "All that I could say, then, with respect to farming &hellip;" 
 
