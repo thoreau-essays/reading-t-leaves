@@ -113,14 +113,41 @@ Between the paragraphs, Thoreau has inserted, in pencil, "V S The real". Thoreau
 
 {% include essay/feature/scrolly-end.html %}
 
-On this leaf from draft E, Thoreau has re-copied the passage and once again penciled "VS The real" between the two paragraphs. "P. 132 is in Sanborn's hand.
+{% include essay/feature/scrolly-map.html tile-path="/assets/tiles/684dir" image-width="12000" image-height="15556" max-zoom="6" min-zoom="1" layout="sidecar" interactive="true" %}
 
+This leaf is from draft E. It contains a fair copy of the passage in D, adopting the revised wording we saw above. 
+
+{% include essay/feature/scrolly-step.html map-x="9000" map-y="5200" map-zoom="3.5" %}
+
+Here again Thoreau has penciled "VS The real" between the two paragraphs.
+
+{% include essay/feature/scrolly-end.html %}
+
+{% include essay/feature/scrolly-map.html tile-path="/assets/tiles/931dir" image-width="12000" image-height="15556" max-zoom="6" min-zoom="1" layout="sidecar" interactive="true" %}
+
+This leaf in G is likely the one to which Thoreau's cross-references in D and E are pointing.
+
+{% include essay/feature/scrolly-step.html map-x="3800" map-y="1200" map-zoom="3.5" %}
+
+Thoreau has underscored the word "real" on the G leaf.
+
+{% include essay/feature/scrolly-end.html %}
+
+Thoreau's two cross-references on leaves from drafts D and E to a scrap in G vividly illustrates Shanley's observation about G that it consists of short passages that "Thoreau fitted into the earlier groups"&mdash;mostly into F, but also into B, C, D, and E (32). Thoreau likely composed the leaves of G during February and March, 1854. Basing the Hollowell farm passage on an entry in his Journal dated February 3, 1854, he fitted it just where his cross-references indicate on the D and E leaves: between the paragraph about the poet who puts a farm "in rhyme" and the one beginning, "All that I could say, then, with respect to farming &hellip;" 
+
+Another way to understand this relationship between drafts is to describe G not as the February–March, 1854 leaves merely but as the combination of those leaves and various predecessor leaves, held together in whatever order, and in whatever manner, made sense to Thoreau&mdash;an order and manner now beyond reconstruction.
+
+
+
+
+
+
+
+
+<!-- 
 <img src="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/684/364,1100,2400,800/full/0/default.jpg" alt="ms leaf" style="max-width: 800px;">
 
 This scrap from draft G is likely the one that Thoreau is cross-referencing on both the E and F leaves. Note that he's underlined the word "real."
 
-<img src="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/931/225,300,2450,600/full/0/default.jpg" alt="ms leaf" style="max-width: 800px;">
-
-Thoreau's two cross-references ("V S The real") on leaves from drafts D and E to a scrap in G vividly illustrates Shanley's observation about G that it consists of short passages that "Thoreau fitted into the earlier groups"&mdash;mostly into F, but also into B, C, D, and E (32). Thoreau likely composed the leaves of G during February and March, 1854. Basing the Hollowell farm passage on an entry in his Journal dated February 3, 1854, he fitted it just where his cross-references indicate on the D and E leaves: between the paragraph about the poet who puts a farm "in rhyme" and the one beginning, "All that I could say, then, with respect to farming &hellip;" 
-
-Another way to understand this relationship between drafts is to describe G not as the February–March, 1854 leaves merely but as the combination of those leaves and various predecessor leaves, held together in whatever order, and in whatever manner, made sense to Thoreau&mdash;an order and manner now beyond reconstruction.
+<img src="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/931/225,300,2450,600/full/0/default.jpg" alt="ms leaf" style="max-width: 800px;"> 
+-->
