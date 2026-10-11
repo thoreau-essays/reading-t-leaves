@@ -7,13 +7,13 @@ order: 30
 
 Below, we've highlighted a few examples of markings found throughout the *Walden* manuscript. You can zoom and navigate in the manuscript images. (Navigate, as you would in Google Maps, by pressing and dragging). You can also make any of the images full-screen. (Caveat: These features work on desktop and tablet but not mobile.)
 
-## "One farmer says to me &hellip;"
+{% include essay/feature/scrolly-map.html tile-path="/assets/tiles/17dir" image-width="8708" image-height="11608" max-zoom="6" min-zoom="2" layout="sidecar" interactive="true" %}
 
 On the partial leaf below from Version A, at top, we see Thoreau at work on language that in the published *Walden* would form part of "Economy," paragraph 11. As published, it reads as follows:
 
 <blockquote class="ehw"><p>One farmer says to me, <quote>You cannot live on vegetable food solely, for it furnishes nothing to make bones with,</quote> and so he religiously devotes a part of his day to supplying his system with the raw material of bones; walking all the while he talks behind his oxen, which, with vegetable-made bones, jerk him and his lumbering plough along in spite of every obstacle.</p></blockquote>
 
-{% include essay/feature/scrolly-map.html tile-path="/assets/tiles/17dir" image-width="8708" image-height="11608" max-zoom="6" min-zoom="2" layout="sidecar" interactive="true" %}
+{% include essay/feature/scrolly-step.html %}
 
 Near the top left of the leaf, Thoreau has edited the first part of the sentence in ink.
 
@@ -33,7 +33,7 @@ An inked insertion on the next line amends the last part of "whose vegetable-mad
 
 {% include essay/feature/scrolly-step.html map-x="5000" map-y="6030" map-zoom="3.5" %}
 
-Still farther down the page, beyond the sentence in question, we find the penciled word "omit," probably added by Thoreau and apparently referring to everything below the penciled line beneath.
+Still farther down the page, beyond the sentence in question, Thoreau has penciled an instruction to himself&mdash;"omit"&mdash;presumably referring to everything below the penciled line beneath. "Omit" appears elsewhere in the manuscript in Thoreau's hand, as does the opposite instruction, "retain." <!-- Thoreau's "omit" shouldn't be confused with Sanborn's occasional notation "omitted," referring to ... | link to region of 100? -->
 
 {% include essay/feature/scrolly-step.html map-x="3000" map-zoom="3" animate="zoom-out" %}
 
@@ -41,11 +41,11 @@ The penciled line extends from the bottom of the page, in the left margin, all t
 
 {% include essay/feature/scrolly-end.html %}
 
-## "They were a real cereal fruit &hellip;"
+{% include essay/feature/scrolly-map.html tile-path="/assets/tiles/68dir" image-width="8708" image-height="11608" max-zoom="6" min-zoom="2" layout="sidecar" interactive="true" %}
 
 On this page from Version A, we see page numbers inscribed by both Sanborn and Thoreau, a variety of Thoreau's other extra-textual markings, and evidence of two ways that Thoreau held leaves together as he re-arranged them within and across draft versions. In A, these re-arrangements may have been related to his use of the manuscript for lecturing. The text on this page appears in paragraph 85a of the published *Walden*.
 
-{% include essay/feature/scrolly-map.html tile-path="/assets/tiles/68dir" image-width="8708" image-height="11608" max-zoom="6" min-zoom="2" layout="sidecar" interactive="true" %}
+{% include essay/feature/scrolly-step.html %}
 
 On the top portion of the page, Thoreau has drawn three vertical lines. They may be intended to cancel the underlying text, but it's also possible that they're intended to remind Thoreau that he's carried the underlying text into another location in the draft, or into a subsequent draft. The text here does make it, with revisions, into the published *Walden*.
 
@@ -89,13 +89,13 @@ In the upper right corner, Thoreau has written "49" in pencil, then replaced it 
 
 {% include essay/feature/scrolly-end.html %}
 
-## "The real attractions of the Hollowell Farm &hellip;"
+{% include essay/feature/scrolly-map.html tile-path="/assets/tiles/573dir" image-width="8626" image-height="11231" max-zoom="6" min-zoom="2" layout="sidecar" interactive="true" %}
 
 The top portion of this leaf from Thoreau's D draft of *Walden* contains the end of what would become paragraph 3 of the chapter "Where I Lived, and What I Lived For." As published, the sentence that begins at the end of the second line reads,
 
 <blockquote class="ehw"><p>Why, the owner does not know it for many years when a poet has put his farm in rhyme, the most admirable kind of invisible fence, has fairly impounded it, milked it, skimmed it, and got all the cream, and left the farmer only the skimmed milk.</p></blockquote>
 
-{% include essay/feature/scrolly-map.html tile-path="/assets/tiles/573dir" image-width="8626" image-height="11231" max-zoom="6" min-zoom="2" layout="sidecar" interactive="true" %}
+{% include essay/feature/scrolly-step.html %}
 
 A single, vertical penciled line through most of the page is likely one of Thoreau's use marks, indicating that he's incorporated the text beneath elsewhere. The penciled "P 131" and "P. 132" in the left margin are in Sanborn's hand.
 
@@ -136,3 +136,5 @@ Thoreau's two cross-references on leaves from drafts D and E to a scrap in G viv
 Another way to understand this relationship between drafts is to describe G as not merely the February–March, 1854 leaves, but rather the combination of those leaves and various predecessor leaves, held together in whatever order, and in whatever manner, made sense to Thoreau at the time&mdash;an order and manner now beyond reconstruction.
 
 {% include essay/feature/scrolly-end.html %}
+
+<!-- ## "I drink at it ..." | orange grease pencil on 97 -->
