@@ -33,7 +33,7 @@ An inked insertion on the next line amends the last part of "whose vegetable-mad
 
 {% include essay/feature/scrolly-step.html map-x="5000" map-y="6030" map-zoom="3.5" %}
 
-Still farther down the page, beyond the sentence in question, Thoreau has penciled an instruction to himself&mdash;"omit"&mdash;presumably referring to everything below the penciled line beneath. "Omit" appears elsewhere in the manuscript in Thoreau's hand, as does the opposite instruction, "retain." <!-- Thoreau's "omit" shouldn't be confused with Sanborn's occasional notation "omitted," referring to ... | link to region of 100? -->
+Still farther down the page, beyond the sentence in question, Thoreau has penciled an instruction to himself&mdash;"omit"&mdash;presumably referring to everything below the penciled line beneath. "Omit" appears elsewhere in the manuscript in Thoreau's hand, as does the opposite instruction, "retain." 
 
 {% include essay/feature/scrolly-step.html map-x="3000" map-zoom="3" animate="zoom-out" %}
 
@@ -137,4 +137,6 @@ Another way to understand this relationship between drafts is to describe G as n
 
 {% include essay/feature/scrolly-end.html %}
 
+
+<!-- Note to line 36 above: Include how Thoreau's "omit" shouldn't be confused with Sanborn's occasional notation "omitted," referring to ... | link to region of 100? -->
 <!-- ## "I drink at it ..." | orange grease pencil on 97 -->
