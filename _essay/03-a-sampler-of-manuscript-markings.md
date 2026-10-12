@@ -142,6 +142,60 @@ Another way to understand this relationship between drafts is to describe G as n
 
 {% include essay/feature/scrolly-end.html %}
 
+{% include essay/feature/scrolly-map.html tile-path="/assets/tiles/97dir" image-width="8708" image-height="11608" max-zoom="6" min-zoom="2" layout="sidecar" interactive="true" %}
 
-<!-- Note to line 36 above: Include how Thoreau's "omit" shouldn't be confused with Sanborn's occasional notation "omitted," referring to ... | link to region of 100? -->
-<!-- ## "I drink at it ..." | orange grease pencil on 97 -->
+Thoreau occasionally uses an orange grease pencil to mark up the manuscript. Near the center of this leaf, he uses it to indicate revisions to one of *Walden*'s most famous passages.
+
+{% include essay/feature/scrolly-step.html map-x="3000" map-y="7500" map-zoom="3" %}
+
+In the published *Walden*, the passage from the chapter "Where I Lived, and What I Lived For," begins:
+
+<blockquote class="ehw"><p>Time is but the stream I go a-fishing in. I drink at it; but while I drink I see the sandy bottom and detect how shallow it is. Its thin current slides away, but eternity remains.</p></blockquote>
+
+Here, Thoreau has surrounded his draft of the passage on three sides and drawn a large "X" through it, all in pencil.
+
+{% include essay/feature/scrolly-step.html map-x="1200" map-zoom="4" %}
+
+But in the left margin, he's penciled the word "retain." It's possible that he at first intended to cancel the passage, then changed his mind. More likely, however, the penciled lines indicate his intention to reposition this material, which on the present leaf follows material that would become paragraph 17 of "Where I Lived." In the published *Walden*, the passage becomes the chapter's final (23rd) paragraph. 
+
+{% include essay/feature/scrolly-step.html map-x="4200" map-y="5500" %}
+
+Thoreau's cross-reference–"V back The Preacher" refers to material that would form the last part of paragraph 20: "The preacher, instead of vexing the ears of drowsy farmers &hellip;" Thoreau effectively repositions the "Time is but the stream passage" not by re-copying it, but by instructing himself to insert additional material ahead of it. The material that ultimately forms paragraphs 18–22 of "Where I Lived" had earlier been grouped with material that would end up in the chapter "Sounds."
+
+(We discuss this repositioning, together with an [earlier A draft](https://cdm16003.contentdm.oclc.org/digital/collection/p16003coll16/id/93) of the "Time is but the stream" passage, in our essay ["The Nick of Time, Improved"](https://digitalthoreau.org/the-nick-of-time-improved/).)
+
+While we're here, note the penciled lines Thoreau has drawn on either side of the word "drink."
+
+{% include essay/feature/scrolly-step.html map-x="4500" map-y="6000" map-zoom="5" %}
+
+He's also penciled "retain" above the word "drink".
+
+{% include essay/feature/scrolly-step.html map-x="5200" map-zoom="3" %}
+
+At one point in the revision, process, Thoreau's thought seems to be to strike "I drink at it" and begin a new sentence with the word "But." He uses a pencil to write an upper-case "B" beside the lower-case "b" in ink. It's possible that he also considered, separately, subtituting another word for "drink," judging from those penciled lines on either side of it.
+
+{% include essay/feature/scrolly-step.html map-x="3400" %}
+
+"But while I drink at it I see" seems to be the revised wording Thoreau intends at first.
+
+{% include essay/feature/scrolly-step.html map-x="4000" map-zoom="4" %}
+
+However, having inserted "at" in pencil, above a penciled, caret, he cancels it. 
+
+{% include essay/feature/scrolly-step.html map-zoom="3" %}
+
+Here's a transcript of the revisions in question:
+
+<blockquote class="ehw" style="color: black;"><p>Time is but the stream I go<br /> a-fishing in. <s style="color: orange;"><span style="color: black;">I <span style="color: gray;">|</span> drink <span style="color: gray;">|</span> at it</span></s>, <span style="color: gray;">B</span>but<br /> while I drink <span style="color: gray;"><s>at it</s></span> I see the sandy bot-<br />tom and detect how shallow it is.<br /><span style="color: orange;">(</span><s style="color: orange;"><span style="color: black;">Its thin current glides away, but</span></s><br /><s style="color: orange;"><span style="color: black;">eternity remains</span></s><span style="color: orange;">)</span>.</p></blockquote>
+
+(The parentheses in orange grease pencil surrounding the final sentence are accompanied by penciled parentheses.)
+
+{% include essay/feature/scrolly-step.html map-zoom="2" %}
+
+In the end, as is always the case when trying to understand Thoreau's revision process, we're left with some uncertainty. Does the word "retain" above the word "drink" apply to that word alone or the whole sentence to which it belongs? Similarly, does "retain" in the left margin, beside the penciled line, refer to the words covered in orange grease pencil or the entire lower portion of the page?
+
+{% include essay/feature/scrolly-step.html %}
+
+What's certain, however, is the heightened sense of revision as a *process* that comes from attending to the physical appearance of Thoreau's manuscript, and the greater intimacy with Thoreau the reviser that comes from familiarizing ourselves with his characteristic markings.
+
+{% include essay/feature/scrolly-end.html %}
