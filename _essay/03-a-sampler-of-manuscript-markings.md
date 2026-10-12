@@ -3,9 +3,9 @@ title: A Sampler of Manuscript Markings
 order: 30
 ---
 
-<!-- Add a note somewhere about the way the transposition to 'ancient & indispensable' is represented in the fluid text, and how this differs from what we see on the MS surface. This illustrates the importance of consulting the MS itself and not just the FT if you want to understand T's process. -->
+Below, we've highlighted a few examples of markings found throughout the *Walden* manuscript. You can zoom and navigate in the manuscript images. (Navigate, as you would in Google Maps, by pressing and dragging). You can also make any of the images full-screen. (Note: These interactive features work on desktop and tablet but not mobile.)
 
-Below, we've highlighted a few examples of markings found throughout the *Walden* manuscript. You can zoom and navigate in the manuscript images. (Navigate, as you would in Google Maps, by pressing and dragging). You can also make any of the images full-screen. (Caveat: These features work on desktop and tablet but not mobile.)
+We've begun compiling a [table of Thoreau's characteristic markings](https://digitalthoreau.org/the-walden-manuscript-project/extra-textual-features-in-the-walden-manuscript/) in the *Walden* manuscript. Like our [search tool for HM 924](https://digitalthoreau.org/manuscript-search-tool/), it's a work in progress. Check back periodically for new information.
 
 {% include essay/feature/scrolly-map.html tile-path="/assets/tiles/17dir" image-width="8708" image-height="11608" max-zoom="6" min-zoom="2" layout="sidecar" interactive="true" %}
 
@@ -199,3 +199,5 @@ In the end, as is always the case when trying to understand Thoreau's revision p
 What's certain, however, is the heightened sense of revision as a *process* that comes from attending to the physical appearance of Thoreau's manuscript, and the greater intimacy with Thoreau the reviser that comes from familiarizing ourselves with his characteristic markings.
 
 {% include essay/feature/scrolly-end.html %}
+
+<!-- Add a note somewhere about the way the transposition to 'ancient & indispensable' is represented in the fluid text, and how this differs from what we see on the MS surface. This illustrates the importance of consulting the MS itself and not just the FT if you want to understand T's process. -->
