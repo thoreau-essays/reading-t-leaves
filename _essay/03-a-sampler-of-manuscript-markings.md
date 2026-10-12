@@ -9,7 +9,7 @@ We've begun compiling a [table of Thoreau's characteristic markings](https://dig
 
 {% include essay/feature/scrolly-map.html tile-path="/assets/tiles/17dir" image-width="8708" image-height="11608" max-zoom="6" min-zoom="2" layout="sidecar" interactive="true" %}
 
-On the partial leaf below from Version A, at top, we see Thoreau at work on language that in the published *Walden* would form part of "Economy," paragraph 11. As published, it reads as follows:
+At the top of this partial leaf from Version A, we see Thoreau at work on language that in the published *Walden* would form part of "Economy," paragraph 11. As published, it reads as follows:
 
 <blockquote class="ehw"><p>One farmer says to me, <q>You cannot live on vegetable food solely, for it furnishes nothing to make bones with,</q> and so he religiously devotes a part of his day to supplying his system with the raw material of bones; walking all the while he talks behind his oxen, which, with vegetable-made bones, jerk him and his lumbering plough along in spite of every obstacle.</p></blockquote>
 
