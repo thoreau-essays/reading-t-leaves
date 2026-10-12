@@ -186,7 +186,7 @@ However, having inserted "at" in pencil, above a penciled, caret, he cancels it.
 
 Here's a transcript of the revisions in question:
 
-<blockquote class="ehw" style="color: black;"><p>Time is but the stream I go<br /> a-fishing in. <s style="color: orange;"><span style="color: black;">I <span style="color: gray;">|</span> drink <span style="color: gray;">|</span> at it</span></s>, <span style="color: gray;">B</span>but<br /> while I drink <span style="color: gray;"><s>at it</s></span> I see the sandy bot-<br />tom and detect how shallow it is.<br /><span style="color: orange;">(</span><s style="color: orange;"><span style="color: black;">Its thin current glides away, but</span></s><br /><s style="color: orange;"><span style="color: black;">eternity remains</span></s><span style="color: orange;">)</span>.</p></blockquote>
+<blockquote class="ehw" style="color: black;"><p>Time is but the stream I go<br /> a-fishing in. <s style="color: orange;"><span style="color: black;">I <span style="color: gray;">|</span> drink <span style="color: gray;">|</span> at it</span></s>, <span style="color: gray;">B</span>but<br /> while I drink <span style="color: gray;"><s>at it</s></span> I see the sandy bot-<br />tom and detect how shallow it is.<br /><span style="color: orange;">(</span><s style="color: orange;"><span style="color: black;">Its thin current slides away, but</span></s><br /><s style="color: orange;"><span style="color: black;">eternity remains</span></s><span style="color: orange;">)</span>.</p></blockquote>
 
 (The parentheses in orange grease pencil surrounding the final sentence are accompanied by penciled parentheses.)
 
