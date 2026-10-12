@@ -11,9 +11,7 @@ Below, we've highlighted a few examples of markings found throughout the *Walden
 
 On the partial leaf below from Version A, at top, we see Thoreau at work on language that in the published *Walden* would form part of "Economy," paragraph 11. As published, it reads as follows:
 
-<blockquote class="ehw"><p>One farmer says to me, <quote>You cannot live on vegetable food solely, for it furnishes nothing to make bones with,</quote> and so he religiously devotes a part of his day to supplying his system with the raw material of bones; walking all the while he talks behind his oxen, which, with vegetable-made bones, jerk him and his lumbering plough along in spite of every obstacle.</p></blockquote>
-
-{% include essay/feature/scrolly-step.html %}
+<blockquote class="ehw"><p>One farmer says to me, <q>You cannot live on vegetable food solely, for it furnishes nothing to make bones with,</q> and so he religiously devotes a part of his day to supplying his system with the raw material of bones; walking all the while he talks behind his oxen, which, with vegetable-made bones, jerk him and his lumbering plough along in spite of every obstacle.</p></blockquote>
 
 Near the top left of the leaf, Thoreau has edited the first part of the sentence in ink.
 
@@ -25,7 +23,9 @@ What began as "One says you can't live &hellip;" becomes "One farmer says to me 
 
 There is a penciled "P.17" in the upper left corner of the page, but this is in Sanborn's hand, not Thoreau's. 
 
-Six lines from the top of the page, Thoreau inserts "he talks" in ink following "all the while," and he uses a curved line &mdash; a standard transposition symbol &mdash; to indicate that the order of words here should be "walking all the while he talks." As he often does throughout the manuscript, Thoreau draws the line in pencil, then draws over it in ink.
+{% include essay/feature/scrolly-step.html map-x="3600" map-y="4500" map-zoom="4" %}
+
+A few lines from the top of the page, Thoreau inserts "he talks" in ink following "all the while," and he uses a curved line &mdash; a standard transposition symbol &mdash; to indicate that the order of words here should be "walking all the while he talks." As he often does throughout the manuscript, Thoreau draws the line in pencil, then draws over it in ink.
 
 {% include essay/feature/scrolly-step.html map-x="6000" map-y="3000" map-zoom="4" %}
 
@@ -34,6 +34,11 @@ An inked insertion on the next line amends the last part of "whose vegetable-mad
 {% include essay/feature/scrolly-step.html map-x="5000" map-y="6030" map-zoom="3.5" %}
 
 Still farther down the page, beyond the sentence in question, Thoreau has penciled an instruction to himself&mdash;"omit"&mdash;presumably referring to everything below the penciled line beneath. "Omit" appears elsewhere in the manuscript in Thoreau's hand, as does the opposite instruction, "retain." 
+
+Thoreau's "omit" should not be confused with Sanborn's occasional notation, "omitted," typically referring to material included in the manuscript that Thoreau chose not to include in the published *Walden*.
+
+<img src="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/100/675,5400,840,1700/full/pct:30/default.jpg" style="width: 50%" />
+<p style="font-size: smaller; font-style: italic;">Sanborn's <q>omitted</q> in the left margin of <a href="https://cdm16003.contentdm.oclc.org/digital/collection/p16003coll16/id/100">a leaf in version A</a>.</p>
 
 {% include essay/feature/scrolly-step.html map-x="3000" map-zoom="3" animate="zoom-out" %}
 
